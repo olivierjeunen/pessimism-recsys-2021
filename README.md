@@ -10,6 +10,7 @@ Source code for our paper "Pessimistic Reward Models for Off-Policy Learning in 
 ## Paper
 If you use our code in your research, please remember to cite our paper:
 
+```BibTeX
     @inproceedings{JeunenRecSys2021_A,
       author = {Jeunen, Olivier and Goethals, Bart},
       title = {Pessimistic Reward Models for Off-Policy Learning in Recommendation},
@@ -18,3 +19,4 @@ If you use our code in your research, please remember to cite our paper:
       year = {2021},
       publisher = {ACM},
     }
+```
