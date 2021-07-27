@@ -1,5 +1,5 @@
 # Pessimistic Reward Models for Off-Policy Learning in Recommendation
-Source code for [our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021](https://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_A.pdf).
+Source code for [our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021](http://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_A.pdf).
 
 
 ## Reproducibility
