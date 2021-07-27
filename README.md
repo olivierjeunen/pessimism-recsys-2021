@@ -1,9 +1,9 @@
 # Pessimistic Reward Models for Off-Policy Learning in Recommendation
-Source code for our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021.
+Source code for [our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021](https://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_A.pdf).
 
 
 ## Reproducibility
-- Install RecoGym requirements as described in the official repository: https://github.com/criteo-research/reco-gym
+- Install RecoGym requirements as described in the [official repository](https://github.com/criteo-research/reco-gym).
 - Install utilities and common packages: TQDM, NumPy/SciPy, Pandas.
 - Run `python3 src/PessimisticRidgeRegression.py`, which will run all experiments and dump raw measurements in .csv files, along with coarse visualisation in .png files.
 
