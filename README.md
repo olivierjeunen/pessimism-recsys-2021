@@ -1,6 +1,6 @@
 # Pessimistic Decision-Making for Recommender Systems
 This repository holds the source code for [our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021](http://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_A.pdf).
-This work has been extended as "Pessimistic Decision=Making for Recommender Systems", which will appear in the [ACM Transactions on Recommender Systems (ToRS)](https://dl.acm.org/journal/tors).
+This work has been extended as "Pessimistic Decision-Making for Recommender Systems", which will appear in the [ACM Transactions on Recommender Systems (ToRS)](https://dl.acm.org/journal/tors).
 
 
 ## Reproducibility
