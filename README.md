@@ -1,6 +1,6 @@
 # Pessimistic Decision-Making for Recommender Systems
 This repository holds the source code for [our paper "Pessimistic Reward Models for Off-Policy Learning in Recommendation" published at RecSys 2021](http://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_A.pdf).
-This work has been extended as "Pessimistic Decision-Making for Recommender Systems", which will appear in the [ACM Transactions on Recommender Systems (ToRS)](https://dl.acm.org/journal/tors).
+This work has been extended as "Pessimistic Decision-Making for Recommender Systems", published in the [ACM Transactions on Recommender Systems (ToRS)](https://dl.acm.org/doi/10.1145/3568029) journal.
 
 
 ## Reproducibility
@@ -10,9 +10,17 @@ This work has been extended as "Pessimistic Decision-Making for Recommender Syst
 
 
 ## Paper
-If you use our code in your research, please remember to cite our paper:
+If you use our code in your research, please remember to cite our work:
 
 ```BibTeX
+    @article{JeunenTORS_2022,
+      author = {Jeunen, Olivier and Goethals, Bart},
+      title = {Pessimistic Decision-Making for Recommender Systems},
+      journal = {Tranactions on Recommender Systems (TORS)},
+      year = {2022},
+      publisher = {ACM},
+    }
+
     @inproceedings{JeunenRecSys2021_A,
       author = {Jeunen, Olivier and Goethals, Bart},
       title = {Pessimistic Reward Models for Off-Policy Learning in Recommendation},
