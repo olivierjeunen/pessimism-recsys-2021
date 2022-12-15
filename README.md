@@ -16,7 +16,7 @@ If you use our code in your research, please remember to cite our work:
     @article{JeunenTORS_2022,
       author = {Jeunen, Olivier and Goethals, Bart},
       title = {Pessimistic Decision-Making for Recommender Systems},
-      journal = {Tranactions on Recommender Systems (TORS)},
+      journal = {Transactions on Recommender Systems (TORS)},
       year = {2022},
       publisher = {ACM},
     }
